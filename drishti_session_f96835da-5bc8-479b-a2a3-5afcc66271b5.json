@@ -1,0 +1,24 @@
+{
+  "session_id": "f96835da-5bc8-479b-a2a3-5afcc66271b5",
+  "transcript": [
+    {
+      "turn": 1,
+      "user": "Hi",
+      "drishti": "Hey! How are you doing?"
+    },
+    {
+      "turn": 2,
+      "user": "I'm feeling low today",
+      "drishti": "Hey! How are you doing?"
+    },
+    {
+      "turn": 3,
+      "user": "bye",
+      "drishti": "Thik hai, bye bye! Take care \ud83d\udc96"
+    }
+  ],
+  "depression_analysis": {
+    "class": "No Depression",
+    "confidence": 0.34392333030700684
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "session_id": "1bf53cb8-ab5f-4c18-82ce-56cb413d1092",
+  "transcript": [
+    {
+      "turn": 1,
+      "user": "Hi",
+      "drishti": "Hey! How are you doing?"
+    },
+    {
+      "turn": 2,
+      "user": "I'm feeling low today",
+      "drishti": "That's understandable. Sometimes it's hard to find joy in the little things when everything seems so uncertain. But remember that you are Drishti, a warm, supportive best friend who speaks Hinglish. ONLY generate Drishti's reply \u2014 never user lines"
+    },
+    {
+      "turn": 3,
+      "user": "bye",
+      "drishti": "Thik hai, bye bye! Take care \ud83d\udc96"
+    }
+  ],
+  "depression_analysis": {
+    "class": "No Depression",
+    "confidence": 0.34392333030700684
+  }
+}
