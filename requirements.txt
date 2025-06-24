@@ -1,0 +1,11 @@
+numpy
+sounddevice
+scipy
+pyttsx3
+speechrecognition
+pydub
+ctransformers
+huggingface-hub
+transformers
+torch
+flask
